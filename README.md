@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anederlander
 - 👀 I’m interested in the applications of computer science to advance scientific discovery.
-- 🌱 I’m currently pursuing my MS in Computer Engineering. 
+- 🌱 I’m currently pursuing my PhD in Computer Engineering. 
 
 <!---
 anederlander/anederlander is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
